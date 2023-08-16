@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+I+am+Karthik+S!;I+Enjoy+learning+and+I'm+currently+exploring+Web+Development%2C+and+Cloud+Data+Analytics.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There+!+I+am+Karthik+S;I+like+to+Develop)](https://git.io/typing-svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarthi2001&layout=compact&theme=radical&langs_count=10&hide=ShaderLab,LLVM)
 
